@@ -17,7 +17,7 @@ const prefix            = config.local.prefix;
 
 const log = (msg) => { console.log(msg) }
 
-bot.login(process.env.TOKEN);
+bot.login("NTMyMTk5NDc5OTgyNDI0MDY2.DxZBIQ.-czLk-a1zpTfGrbTr2cfY8lDclc");
 
 bot.on(`ready`, async () => {
     log(`Starting..`)
